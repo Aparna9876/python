@@ -1,0 +1,6 @@
+a=[1,1,5]
+def sublist(b):
+    if (a<b):
+        print("It's  a match")
+    else:
+        print("It's gone")
